@@ -19,6 +19,7 @@ data/raw_files/
 
 # Reproducible results and caches
 results/
+!results/.gitkeep
 *.log
 *.tmp
 *.bak
