@@ -16,6 +16,9 @@ env/
 # Raw data and downloaded attachments
 data/raw_counts/
 data/raw_files/
+data/series_counts/
+data/moufarrej/
+data/metadata/*.soft.gz
 
 # Reproducible results and caches
 results/
