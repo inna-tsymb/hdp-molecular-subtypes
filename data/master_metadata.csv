@@ -1,0 +1,334 @@
+GSM_ID,dataset,sample_col,raw_label,subtype,category,onset,tissue,sex,branch,data_type,matrix_file
+GSM6175116,GSE203507,GSM6175116,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175116_EOPE+FGR__S01__Villous_Tissue_GSM6175116_S01_VT.count.txt.gz
+GSM6175117,GSE203507,GSM6175117,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175117_EOPE+FGR__S02__Villous_Tissue_GSM6175117_S02_VT.count.txt.gz
+GSM6175118,GSE203507,GSM6175118,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175118_EOPE+FGR__S03__Villous_Tissue_GSM6175118_S03_VT.count.txt.gz
+GSM6175121,GSE203507,GSM6175121,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175121_EOPE__S06__Villous_Tissue_GSM6175121_S06_VT.count.txt.gz
+GSM6175122,GSE203507,GSM6175122,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175122_EOPE__S07__Villous_Tissue_GSM6175122_S07_VT.count.txt.gz
+GSM6175127,GSE203507,GSM6175127,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175127_EOPE+FGR__S12__Villous_Tissue_GSM6175127_S12_VT.count.txt.gz
+GSM6175128,GSE203507,GSM6175128,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175128_EOPE+FGR__S13__Villous_Tissue_GSM6175128_S13_VT.count.txt.gz
+GSM6175131,GSE203507,GSM6175131,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175131_EOPE__S16__Villous_Tissue_GSM6175131_S16_VT.count.txt.gz
+GSM6175132,GSE203507,GSM6175132,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175132_EOPE+FGR__S17__Villous_Tissue_GSM6175132_S17_VT.count.txt.gz
+GSM6175133,GSE203507,GSM6175133,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175133_EOPE__S18__Villous_Tissue_GSM6175133_S18_VT.count.txt.gz
+GSM6175134,GSE203507,GSM6175134,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175134_EOPE__S19__Villous_Tissue_GSM6175134_S19_VT.count.txt.gz
+GSM6175135,GSE203507,GSM6175135,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175135_EOPE__S20__Villous_Tissue_GSM6175135_S20_VT.count.txt.gz
+GSM6175136,GSE203507,GSM6175136,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175136_EOPE__S21__Villous_Tissue_GSM6175136_S21_VT.count.txt.gz
+GSM6175137,GSE203507,GSM6175137,EOPE,PE_Early,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175137_EOPE__S22__Villous_Tissue_GSM6175137_S22_VT.count.txt.gz
+GSM6175140,GSE203507,GSM6175140,EOPE+FGR,PE_Early_FGR,Case,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175140_EOPE+FGR__S25__Villous_Tissue_GSM6175140_S25_VT.count.txt.gz
+GSM6175141,GSE203507,GSM6175141,TB,Control,Control,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175141_TB__S26__Villous_Tissue_GSM6175141_S26_VT.count.txt.gz
+GSM6175142,GSE203507,GSM6175142,TB,Control,Control,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175142_TB__S27__Villous_Tissue_GSM6175142_S27_VT.count.txt.gz
+GSM6175143,GSE203507,GSM6175143,TB,Control,Control,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175143_TB__S28__Villous_Tissue_GSM6175143_S28_VT.count.txt.gz
+GSM6175144,GSE203507,GSM6175144,TB,Control,Control,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175144_TB__S29__Villous_Tissue_GSM6175144_S29_VT.count.txt.gz
+GSM6175145,GSE203507,GSM6175145,TB,Control,Control,EOPE,"placenta, villous tissue",,DEA,raw_counts,data/raw_counts/Supp_GSM6175145_TB__S30__Villous_Tissue_GSM6175145_S30_VT.count.txt.gz
+GSM4458410,GSE148241,GSM4458410,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458410_PHPR08_GSM4458410_PHPR08.raw.counts.txt.gz
+GSM4458411,GSE148241,GSM4458411,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458411_PHPR14_GSM4458411_PHPR14.raw.counts.txt.gz
+GSM4458412,GSE148241,GSM4458412,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458412_PHPR19_GSM4458412_PHPR19.editing.ratio.txt.gz
+GSM4458413,GSE148241,GSM4458413,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458413_PHPR26_GSM4458413_PHPR26.percent.spliced.in.txt.gz
+GSM4458414,GSE148241,GSM4458414,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458414_PHPR30_GSM4458414_PHPR30.rm.blood.counts.txt.gz
+GSM4458415,GSE148241,GSM4458415,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458415_PHPR32_GSM4458415_PHPR32.editing.ratio.txt.gz
+GSM4458416,GSE148241,GSM4458416,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458416_PHPR33_GSM4458416_PHPR33.raw.counts.txt.gz
+GSM4458417,GSE148241,GSM4458417,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458417_PHPR37_GSM4458417_PHPR37.editing.ratio.txt.gz
+GSM4458418,GSE148241,GSM4458418,early-onset severe preeclampsia (EOSPE),PE_Early_Severe,Case,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458418_PHPR42_GSM4458418_PHPR42.percent.spliced.in.txt.gz
+GSM4458419,GSE148241,GSM4458419,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458419_PHNPR03_GSM4458419_PHNPR03.raw.counts.txt.gz
+GSM4458420,GSE148241,GSM4458420,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458420_PHNPR06_GSM4458420_PHNPR06.raw.counts.txt.gz
+GSM4458421,GSE148241,GSM4458421,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458421_PHNPR08_GSM4458421_PHNPR08.percent.spliced.in.txt.gz
+GSM4458422,GSE148241,GSM4458422,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458422_PHNPR09_GSM4458422_PHNPR09.raw.counts.txt.gz
+GSM4458423,GSE148241,GSM4458423,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458423_PHNPR10_GSM4458423_PHNPR10.rm.blood.counts.txt.gz
+GSM4458424,GSE148241,GSM4458424,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458424_PHNPR11_GSM4458424_PHNPR11.percent.spliced.in.txt.gz
+GSM4458425,GSE148241,GSM4458425,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458425_PHNPR14_GSM4458425_PHNPR14.raw.counts.txt.gz
+GSM4458426,GSE148241,GSM4458426,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458426_PHNPR16_GSM4458426_PHNPR16.percent.spliced.in.txt.gz
+GSM4458427,GSE148241,GSM4458427,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458427_PHNPR17_GSM4458427_PHNPR17.editing.ratio.txt.gz
+GSM4458428,GSE148241,GSM4458428,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458428_PHNPR18_GSM4458428_PHNPR18.percent.spliced.in.txt.gz
+GSM4458429,GSE148241,GSM4458429,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458429_PHNPR19_GSM4458429_PHNPR19.percent.spliced.in.txt.gz
+GSM4458430,GSE148241,GSM4458430,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458430_PHNPR21_GSM4458430_PHNPR21.editing.ratio.txt.gz
+GSM4458431,GSE148241,GSM4458431,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458431_PHNPR23_GSM4458431_PHNPR23.percent.spliced.in.txt.gz
+GSM4458432,GSE148241,GSM4458432,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458432_PHNPR24_GSM4458432_PHNPR24.raw.counts.txt.gz
+GSM4458433,GSE148241,GSM4458433,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458433_PHNPR25_GSM4458433_PHNPR25.raw.counts.txt.gz
+GSM4458434,GSE148241,GSM4458434,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458434_PHNPR26_GSM4458434_PHNPR26.editing.ratio.txt.gz
+GSM4458435,GSE148241,GSM4458435,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458435_PHNPR27A_GSM4458435_PHNPR27A.percent.spliced.in.txt.gz
+GSM4458436,GSE148241,GSM4458436,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458436_PHNPR27B_GSM4458436_PHNPR27B.rm.blood.counts.txt.gz
+GSM4458437,GSE148241,GSM4458437,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458437_PHNPR28_GSM4458437_PHNPR28.rm.blood.counts.txt.gz
+GSM4458438,GSE148241,GSM4458438,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458438_PHNPR29_GSM4458438_PHNPR29.percent.spliced.in.txt.gz
+GSM4458439,GSE148241,GSM4458439,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458439_PHNPR30_GSM4458439_PHNPR30.editing.ratio.txt.gz
+GSM4458440,GSE148241,GSM4458440,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458440_PHNPR31_GSM4458440_PHNPR31.percent.spliced.in.txt.gz
+GSM4458441,GSE148241,GSM4458441,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458441_PHNPR32_GSM4458441_PHNPR32.rm.blood.counts.txt.gz
+GSM4458442,GSE148241,GSM4458442,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458442_PHNPR33_GSM4458442_PHNPR33.percent.spliced.in.txt.gz
+GSM4458443,GSE148241,GSM4458443,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458443_PHNPR34_GSM4458443_PHNPR34.raw.counts.txt.gz
+GSM4458444,GSE148241,GSM4458444,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458444_PHNPR35_GSM4458444_PHNPR35.rm.blood.counts.txt.gz
+GSM4458445,GSE148241,GSM4458445,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458445_PHNPR36_GSM4458445_PHNPR36.percent.spliced.in.txt.gz
+GSM4458446,GSE148241,GSM4458446,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458446_PHNPR37_GSM4458446_PHNPR37.editing.ratio.txt.gz
+GSM4458447,GSE148241,GSM4458447,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458447_PHNPR38A_GSM4458447_PHNPR38A.raw.counts.txt.gz
+GSM4458448,GSE148241,GSM4458448,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458448_PHNPR38B_GSM4458448_PHNPR38B.editing.ratio.txt.gz
+GSM4458449,GSE148241,GSM4458449,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458449_PHNPR41_GSM4458449_PHNPR41.editing.ratio.txt.gz
+GSM4458450,GSE148241,GSM4458450,Normal,Control,Control,EOPE,Placenta,,ML,rpkm,data/raw_counts/Supp_GSM4458450_PHNPR43_GSM4458450_PHNPR43.editing.ratio.txt.gz
+GSM9210996,GSE306864,SCP3412,Preeclampsia,PE_General,Case,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9210997,GSE306864,SCP3628,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9210998,GSE306864,SCP3660,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9210999,GSE306864,SCP3780,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211000,GSE306864,SCP3843,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211001,GSE306864,SCP3877,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211002,GSE306864,SCP3929,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211003,GSE306864,SCP3954,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211004,GSE306864,SCP3962,Preeclampsia,PE_General,Case,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211005,GSE306864,SCP3992,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211006,GSE306864,SCP4059,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211007,GSE306864,SCP4073,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211008,GSE306864,SCP4139,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211009,GSE306864,SCP4154,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211010,GSE306864,SCP4157,Preeclampsia,PE_General,Case,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211011,GSE306864,SCP4164,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211012,GSE306864,SCP4196,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211013,GSE306864,SCP4319,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211014,GSE306864,SCP4378,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211015,GSE306864,SCP4536,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211016,GSE306864,SCP4538,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211017,GSE306864,SCP4578,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211018,GSE306864,SCP4706,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211019,GSE306864,SCP4726,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211020,GSE306864,SCP4733,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211021,GSE306864,SCP4748,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211022,GSE306864,SCP4809,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211023,GSE306864,SCP4913,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211024,GSE306864,STP0016,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211025,GSE306864,STP0023,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211026,GSE306864,STP0105,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211027,GSE306864,STP0148,Preeclampsia,PE_General,Case,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211028,GSE306864,STP0230,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211029,GSE306864,STP0275,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211030,GSE306864,STP0282,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211031,GSE306864,STP0378,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211032,GSE306864,STP0582,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211033,GSE306864,STP0583,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211034,GSE306864,STP0593,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211035,GSE306864,STP0596,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211036,GSE306864,STP0636,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211037,GSE306864,STP0677,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211038,GSE306864,STP0692,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211039,GSE306864,STP0761,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211040,GSE306864,STP0788,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211041,GSE306864,STP0793,Preeclampsia,PE_General,Case,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211042,GSE306864,STP0795,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211043,GSE306864,STP0852,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211044,GSE306864,STP0867,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211045,GSE306864,STP0888,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211046,GSE306864,STP0903,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211047,GSE306864,STP0912,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211048,GSE306864,STP0932,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211049,GSE306864,STP0944,Preeclampsia,PE_General,Case,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211050,GSE306864,STP1002,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211051,GSE306864,STP1082,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211052,GSE306864,STP1087,Control,Control,Control,LOPE,,female,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+GSM9211053,GSE306864,STP1206,Control,Control,Control,LOPE,,male,DEA,raw_counts,data/series_counts/GSE306864_rawCounts.txt.gz
+,GSE190971,V2481_PLAC_NORMAL,V2481_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2368_PLAC_NORMAL,V2368_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2373_PLAC_NORMAL,V2373_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2409_PLAC_PE,V2409_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2440_PLAC_NORMAL,V2440_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2442_PLAC_PE,V2442_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2441_PLAC_PE,V2441_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2492_PLAC_PE,V2492_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2506_PLAC_PE,V2506_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2508_PLAC_PE,V2508_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2545_PLAC_NORMAL,V2545_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2367_PLAC_NORMAL,V2367_PLAC_NORMAL,Control,Control,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+,GSE190971,V2446_PLAC_PE,V2446_PLAC_PE,PE_General,Case,mixed,Placenta,,DEA,raw_counts,data/series_counts/GSE190971_Raw_gene_counts_matrix_PLAC.txt.gz
+GSM5641743,GSE186257,P1017,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641744,GSE186257,P1045,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641745,GSE186257,P1080,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641746,GSE186257,P1138,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641747,GSE186257,P1160,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641748,GSE186257,P1213,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641749,GSE186257,P1232,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641750,GSE186257,P1256,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641751,GSE186257,P1257,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641752,GSE186257,P1364,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641753,GSE186257,P1389,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641754,GSE186257,P1430,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641755,GSE186257,P1434,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641756,GSE186257,P1449,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641757,GSE186257,P1503,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641758,GSE186257,P1565,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641759,GSE186257,P1632,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641760,GSE186257,P1702,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641761,GSE186257,P1737,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641762,GSE186257,P1745,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641763,GSE186257,P1787,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641764,GSE186257,P1802,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641765,GSE186257,P1831,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641766,GSE186257,P1866,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641767,GSE186257,P1912,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641768,GSE186257,P1932,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641769,GSE186257,P1940,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641770,GSE186257,P538,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641771,GSE186257,P550,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641772,GSE186257,P571,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641773,GSE186257,P606,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641774,GSE186257,P611,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641775,GSE186257,P641,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641776,GSE186257,P686,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641777,GSE186257,P691,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641778,GSE186257,P716,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641779,GSE186257,P753,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641780,GSE186257,P760,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641781,GSE186257,P824,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641782,GSE186257,P855,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641783,GSE186257,P864,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641784,GSE186257,P869,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641785,GSE186257,P931,Severe preeclampsia,PE_Severe,Case,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM5641786,GSE186257,P953,Non-hypertensive Control,Control,Control,severe,,,ML,deseq2_norm,data/series_counts/GSE186257_Plac_samples_DESEq2_norm_filtered.txt.gz
+GSM1940492,GSE75010,GSM1940492,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940492_PE-Term-SGA__rep1_GSM1940492_10021_HuGene-1_0-st-v1_.CEL.gz
+GSM1940493,GSE75010,GSM1940493,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940493_Cont-Term-CH__rep1_GSM1940493_10084_HuGene-1_0-st-v1_.CEL.gz
+GSM1940494,GSE75010,GSM1940494,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940494_Cont-Term-CH__rep2_GSM1940494_10119_HuGene-1_0-st-v1_.CEL.gz
+GSM1940495,GSE75010,GSM1940495,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940495_PE-Term-AGA__rep1_GSM1940495_10134_HuGene-1_0-st-v1_.CEL.gz
+GSM1940496,GSE75010,GSM1940496,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940496_PE-PreT-CH__rep1_GSM1940496_10170_HuGene-1_0-st-v1_.CEL.gz
+GSM1940497,GSE75010,GSM1940497,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,
+GSM1940498,GSE75010,GSM1940498,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940498_PE-PreT-CH__rep2_GSM1940498_10646_HuGene-1_0-st-v1_.CEL.gz
+GSM1940499,GSE75010,GSM1940499,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940499_PE-Term-SGA__rep2_GSM1940499_10683_HuGene-1_0-st-v1_.CEL.gz
+GSM1940500,GSE75010,GSM1940500,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940500_PE-PreT-SGA__rep1_GSM1940500_10914_HuGene-1_0-st-v1_.CEL.gz
+GSM1940501,GSE75010,GSM1940501,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940501_PE-PreT-AGA__rep1_GSM1940501_10986_HuGene-1_0-st-v1_.CEL.gz
+GSM1940502,GSE75010,GSM1940502,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940502_PE-Term-AGA__rep2_GSM1940502_11118_HuGene-1_0-st-v1_.CEL.gz
+GSM1940503,GSE75010,GSM1940503,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940503_Cont-Ter-AGA__rep2_GSM1940503_11128_HuGene-1_0-st-v1_.CEL.gz
+GSM1940504,GSE75010,GSM1940504,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940504_PE-PreT-AGA__rep2_GSM1940504_11221_HuGene-1_0-st-v1_.CEL.gz
+GSM1940505,GSE75010,GSM1940505,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940505_PE-PreT-SGA__rep2_GSM1940505_11387_HuGene-1_0-st-v1_.CEL.gz
+GSM1940506,GSE75010,GSM1940506,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940506_PE-Term-SGA__rep3_GSM1940506_11391_HuGene-1_0-st-v1_.CEL.gz
+GSM1940507,GSE75010,GSM1940507,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940507_Cont-preT-AGA__rep1_GSM1940507_11405_HuGene-1_0-st-v1_.CEL.gz
+GSM1940508,GSE75010,GSM1940508,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940508_PE-PreT-AGA__rep3_GSM1940508_11486_HuGene-1_0-st-v1_.CEL.gz
+GSM1940509,GSE75010,GSM1940509,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940509_PE-Term-AGA__rep3_GSM1940509_11641_HuGene-1_0-st-v1_.CEL.gz
+GSM1940510,GSE75010,GSM1940510,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940510_PE-Term-AGA__rep4_GSM1940510_11653_HuGene-1_0-st-v1_.CEL.gz
+GSM1940511,GSE75010,GSM1940511,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940511_Cont-preT-AGA__rep2_GSM1940511_11836_HuGene-1_0-st-v1_.CEL.gz
+GSM1940512,GSE75010,GSM1940512,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940512_PE-PreT-SGA__rep3_GSM1940512_11857_HuGene-1_0-st-v1_.CEL.gz
+GSM1940513,GSE75010,GSM1940513,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940513_Cont-preT-AGA__rep3_GSM1940513_11893_HuGene-1_0-st-v1_.CEL.gz
+GSM1940514,GSE75010,GSM1940514,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940514_PE-PreT-SGA__rep4_GSM1940514_12138_HuGene-1_0-st-v1_.CEL.gz
+GSM1940515,GSE75010,GSM1940515,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940515_PE-PreT-AGA__rep4_GSM1940515_12172_HuGene-1_0-st-v1_.CEL.gz
+GSM1940516,GSE75010,GSM1940516,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940516_Cont-preT-AGA__rep4_GSM1940516_12218_HuGene-1_0-st-v1_.CEL.gz
+GSM1940517,GSE75010,GSM1940517,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940517_Cont-preT-AGA__rep5_GSM1940517_12621_HuGene-1_0-st-v1_.CEL.gz
+GSM1940518,GSE75010,GSM1940518,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940518_PE-Term-SGA__rep4_GSM1940518_12673_HuGene-1_0-st-v1_.CEL.gz
+GSM1940519,GSE75010,GSM1940519,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940519_Cont-Ter-AGA__rep3_GSM1940519_12747_HuGene-1_0-st-v1_.CEL.gz
+GSM1940520,GSE75010,GSM1940520,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940520_PE-PreT-SGA__rep5_GSM1940520_12880_HuGene-1_0-st-v1_.CEL.gz
+GSM1940521,GSE75010,GSM1940521,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940521_PE-PreT-AGA__rep5_GSM1940521_13025_HuGene-1_0-st-v1_.CEL.gz
+GSM1940522,GSE75010,GSM1940522,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940522_Cont-Ter-AGA__rep4_GSM1940522_13287_HuGene-1_0-st-v1_.CEL.gz
+GSM1940523,GSE75010,GSM1940523,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940523_Cont-Term-CH__rep3_GSM1940523_13299_HuGene-1_0-st-v1_.CEL.gz
+GSM1940524,GSE75010,GSM1940524,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940524_Cont-preT-AGA__rep6_GSM1940524_13487_HuGene-1_0-st-v1_.CEL.gz
+GSM1940525,GSE75010,GSM1940525,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940525_PE-Term-AGA__rep5_GSM1940525_13514_HuGene-1_0-st-v1_.CEL.gz
+GSM1940526,GSE75010,GSM1940526,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940526_PE-Term-AGA__rep6_GSM1940526_13700_HuGene-1_0-st-v1_.CEL.gz
+GSM1940527,GSE75010,GSM1940527,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940527_Cont-Term-CH__rep4_GSM1940527_13746_HuGene-1_0-st-v1_.CEL.gz
+GSM1940528,GSE75010,GSM1940528,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940528_PE-Term-SGA__rep5_GSM1940528_13760_HuGene-1_0-st-v1_.CEL.gz
+GSM1940529,GSE75010,GSM1940529,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940529_Cont-preT-AGA__rep7_GSM1940529_13784_HuGene-1_0-st-v1_.CEL.gz
+GSM1940530,GSE75010,GSM1940530,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940530_PE-PreT-CH__rep3_GSM1940530_13810_HuGene-1_0-st-v1_.CEL.gz
+GSM1940531,GSE75010,GSM1940531,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940531_Cont-Ter-AGA__rep5_GSM1940531_14061_HuGene-1_0-st-v1_.CEL.gz
+GSM1940532,GSE75010,GSM1940532,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940532_Cont-Ter-AGA__rep6_GSM1940532_14230_HuGene-1_0-st-v1_.CEL.gz
+GSM1940533,GSE75010,GSM1940533,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940533_Cont-Ter-AGA__rep7_GSM1940533_14259_HuGene-1_0-st-v1_.CEL.gz
+GSM1940534,GSE75010,GSM1940534,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940534_PE-Term-AGA__rep7_GSM1940534_14284_HuGene-1_0-st-v1_.CEL.gz
+GSM1940535,GSE75010,GSM1940535,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940535_PE-Term-SGA__rep6_GSM1940535_14392_HuGene-1_0-st-v1_.CEL.gz
+GSM1940536,GSE75010,GSM1940536,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940536_Cont-preT-AGA__rep8_GSM1940536_14403_HuGene-1_0-st-v1_.CEL.gz
+GSM1940537,GSE75010,GSM1940537,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940537_PE-PreT-SGA__rep6_GSM1940537_14416_HuGene-1_0-st-v1_.CEL.gz
+GSM1940538,GSE75010,GSM1940538,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940538_Cont-preT-AGA__rep9_GSM1940538_14429_HuGene-1_0-st-v1_.CEL.gz
+GSM1940539,GSE75010,GSM1940539,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940539_Cont-preT-AGA__rep10_GSM1940539_14541_HuGene-1_0-st-v1_.CEL.gz
+GSM1940540,GSE75010,GSM1940540,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940540_PE-PreT-AGA__rep6_GSM1940540_14551_HuGene-1_0-st-v1_.CEL.gz
+GSM1940541,GSE75010,GSM1940541,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940541_PE-PreT-SGA__rep7_GSM1940541_14732_HuGene-1_0-st-v1_.CEL.gz
+GSM1940542,GSE75010,GSM1940542,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940542_PE-PreT-SGA__rep8_GSM1940542_14801_HuGene-1_0-st-v1_.CEL.gz
+GSM1940543,GSE75010,GSM1940543,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940543_Cont-Term-CH__rep5_GSM1940543_14869_HuGene-1_0-st-v1_.CEL.gz
+GSM1940544,GSE75010,GSM1940544,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940544_Cont-preT-AGA__rep11_GSM1940544_14941_HuGene-1_0-st-v1_.CEL.gz
+GSM1940545,GSE75010,GSM1940545,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940545_Cont-Ter-AGA__rep8_GSM1940545_14967_HuGene-1_0-st-v1_.CEL.gz
+GSM1940546,GSE75010,GSM1940546,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940546_PE-PreT-SGA__rep9_GSM1940546_14985_HuGene-1_0-st-v1_.CEL.gz
+GSM1940547,GSE75010,GSM1940547,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940547_PE-Term-SGA__rep7_GSM1940547_15015_HuGene-1_0-st-v1_.CEL.gz
+GSM1940548,GSE75010,GSM1940548,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940548_Cont-preT-AGA__rep12_GSM1940548_15039_HuGene-1_0-st-v1_.CEL.gz
+GSM1940549,GSE75010,GSM1940549,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940549_PE-PreT-CH__rep4_GSM1940549_15080_HuGene-1_0-st-v1_.CEL.gz
+GSM1940550,GSE75010,GSM1940550,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940550_PE-PreT-SGA__rep10_GSM1940550_15123_HuGene-1_0-st-v1_.CEL.gz
+GSM1940551,GSE75010,GSM1940551,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940551_Cont-Ter-AGA__rep9_GSM1940551_15241_HuGene-1_0-st-v1_.CEL.gz
+GSM1940552,GSE75010,GSM1940552,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940552_PE-PreT-SGA__rep11_GSM1940552_15257_HuGene-1_0-st-v1_.CEL.gz
+GSM1940553,GSE75010,GSM1940553,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940553_PE-PreT-SGA__rep12_GSM1940553_15449_HuGene-1_0-st-v1_.CEL.gz
+GSM1940554,GSE75010,GSM1940554,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940554_Cont-preT-AGA__rep13_GSM1940554_15479_HuGene-1_0-st-v1_.CEL.gz
+GSM1940555,GSE75010,GSM1940555,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940555_Cont-Ter-AGA__rep10_GSM1940555_15568_HuGene-1_0-st-v1_.CEL.gz
+GSM1940556,GSE75010,GSM1940556,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940556_PE-Term-CH__rep1_GSM1940556_15811_HuGene-1_0-st-v1_.CEL.gz
+GSM1940557,GSE75010,GSM1940557,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940557_Cont-Term-CH__rep6_GSM1940557_15848_HuGene-1_0-st-v1_.CEL.gz
+GSM1940558,GSE75010,GSM1940558,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940558_PE-PreT-AGA__rep7_GSM1940558_15861_HuGene-1_0-st-v1_.CEL.gz
+GSM1940559,GSE75010,GSM1940559,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940559_Cont-Term-CH__rep7_GSM1940559_15873_HuGene-1_0-st-v1_.CEL.gz
+GSM1940560,GSE75010,GSM1940560,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940560_PE-Term-AGA__rep8_GSM1940560_15897_HuGene-1_0-st-v1_.CEL.gz
+GSM1940561,GSE75010,GSM1940561,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940561_Cont-preT-AGA__rep14_GSM1940561_16225_HuGene-1_0-st-v1_.CEL.gz
+GSM1940562,GSE75010,GSM1940562,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940562_PE-PreT-AGA__rep8_GSM1940562_2759_HuGene-1_0-st-v1_.CEL.gz
+GSM1940563,GSE75010,GSM1940563,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940563_Cont-preT-AGA__rep15_GSM1940563_3047_HuGene-1_0-st-v1_.CEL.gz
+GSM1940564,GSE75010,GSM1940564,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940564_PE-Term-AGA__rep9_GSM1940564_3084_HuGene-1_0-st-v1_.CEL.gz
+GSM1940565,GSE75010,GSM1940565,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940565_PE-Term-AGA__rep10_GSM1940565_3423_HuGene-1_0-st-v1_.CEL.gz
+GSM1940566,GSE75010,GSM1940566,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940566_Cont-Term-CH__rep8_GSM1940566_3931_HuGene-1_0-st-v1_.CEL.gz
+GSM1940567,GSE75010,GSM1940567,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940567_PE-Term-SGA__rep8_GSM1940567_4101_HuGene-1_0-st-v1_.CEL.gz
+GSM1940568,GSE75010,GSM1940568,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940568_Cont-PreT-CH__rep1_GSM1940568_4423_HuGene-1_0-st-v1_.CEL.gz
+GSM1940569,GSE75010,GSM1940569,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940569_PE-Term-CH__rep2_GSM1940569_4520_HuGene-1_0-st-v1_.CEL.gz
+GSM1940570,GSE75010,GSM1940570,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940570_Cont-preT-AGA__rep16_GSM1940570_4653_HuGene-1_0-st-v1_.CEL.gz
+GSM1940571,GSE75010,GSM1940571,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940571_PE-PreT-CH__rep5_GSM1940571_4687_HuGene-1_0-st-v1_.CEL.gz
+GSM1940572,GSE75010,GSM1940572,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940572_PE-PreT-CH__rep6_GSM1940572_4744_HuGene-1_0-st-v1_.CEL.gz
+GSM1940573,GSE75010,GSM1940573,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940573_PE-Term-SGA__rep9_GSM1940573_4756_HuGene-1_0-st-v1_.CEL.gz
+GSM1940574,GSE75010,GSM1940574,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940574_PE-PreT-AGA__rep9_GSM1940574_4809_HuGene-1_0-st-v1_.CEL.gz
+GSM1940575,GSE75010,GSM1940575,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940575_Cont-Term-CH__rep9_GSM1940575_5105_HuGene-1_0-st-v1_.CEL.gz
+GSM1940576,GSE75010,GSM1940576,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940576_Cont-preT-AGA__rep17_GSM1940576_5157_HuGene-1_0-st-v1_.CEL.gz
+GSM1940577,GSE75010,GSM1940577,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940577_PE-PreT-CH__rep7_GSM1940577_5264_HuGene-1_0-st-v1_.CEL.gz
+GSM1940578,GSE75010,GSM1940578,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940578_Cont-Term-CH__rep10_GSM1940578_5273_HuGene-1_0-st-v1_.CEL.gz
+GSM1940579,GSE75010,GSM1940579,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940579_Cont-PreT-CH__rep2_GSM1940579_5534_HuGene-1_0-st-v1_.CEL.gz
+GSM1940580,GSE75010,GSM1940580,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940580_Cont-Term-CH__rep11_GSM1940580_5543_HuGene-1_0-st-v1_.CEL.gz
+GSM1940581,GSE75010,GSM1940581,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940581_Cont-preT-AGA__rep18_GSM1940581_5728_HuGene-1_0-st-v1_.CEL.gz
+GSM1940582,GSE75010,GSM1940582,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940582_PE-Term-SGA__rep10_GSM1940582_5851_HuGene-1_0-st-v1_.CEL.gz
+GSM1940583,GSE75010,GSM1940583,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940583_PE-PreT-CH__rep8_GSM1940583_5947_HuGene-1_0-st-v1_.CEL.gz
+GSM1940584,GSE75010,GSM1940584,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940584_PE-PreT-SGA__rep13_GSM1940584_6171_HuGene-1_0-st-v1_.CEL.gz
+GSM1940585,GSE75010,GSM1940585,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940585_Cont-preT-AGA__rep19_GSM1940585_6265_HuGene-1_0-st-v1_.CEL.gz
+GSM1940586,GSE75010,GSM1940586,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940586_Cont-PreT-CH__rep3_GSM1940586_6613_HuGene-1_0-st-v1_.CEL.gz
+GSM1940587,GSE75010,GSM1940587,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940587_Cont-preT-AGA__rep20_GSM1940587_6666_HuGene-1_0-st-v1_.CEL.gz
+GSM1940588,GSE75010,GSM1940588,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940588_Cont-preT-AGA__rep21_GSM1940588_6766_HuGene-1_0-st-v1_.CEL.gz
+GSM1940589,GSE75010,GSM1940589,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940589_PE-PreT-CH__rep9_GSM1940589_6776_HuGene-1_0-st-v1_.CEL.gz
+GSM1940590,GSE75010,GSM1940590,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940590_PE-PreT-SGA__rep14_GSM1940590_6791_HuGene-1_0-st-v1_.CEL.gz
+GSM1940591,GSE75010,GSM1940591,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940591_Cont-PreT-CH__rep4_GSM1940591_6802_HuGene-1_0-st-v1_.CEL.gz
+GSM1940592,GSE75010,GSM1940592,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940592_PE-Term-CH__rep3_GSM1940592_6842_HuGene-1_0-st-v1_.CEL.gz
+GSM1940593,GSE75010,GSM1940593,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940593_PE-PreT-AGA__rep10_GSM1940593_6987_HuGene-1_0-st-v1_.CEL.gz
+GSM1940594,GSE75010,GSM1940594,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940594_Cont-PreT-CH__rep5_GSM1940594_6996_HuGene-1_0-st-v1_.CEL.gz
+GSM1940595,GSE75010,GSM1940595,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940595_Cont-Term-CH__rep12_GSM1940595_7012_HuGene-1_0-st-v1_.CEL.gz
+GSM1940596,GSE75010,GSM1940596,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940596_PE-PreT-AGA__rep11_GSM1940596_7043_HuGene-1_0-st-v1_.CEL.gz
+GSM1940597,GSE75010,GSM1940597,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940597_Cont-PreT-CH__rep6_GSM1940597_7147_HuGene-1_0-st-v1_.CEL.gz
+GSM1940598,GSE75010,GSM1940598,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940598_Cont-PreT-CH__rep7_GSM1940598_7277_HuGene-1_0-st-v1_.CEL.gz
+GSM1940599,GSE75010,GSM1940599,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940599_PE-PreT-CH__rep10_GSM1940599_7289_HuGene-1_0-st-v1_.CEL.gz
+GSM1940600,GSE75010,GSM1940600,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940600_Cont-Term-CH__rep13_GSM1940600_7298_HuGene-1_0-st-v1_.CEL.gz
+GSM1940601,GSE75010,GSM1940601,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940601_Cont-preT-AGA__rep22_GSM1940601_7328_HuGene-1_0-st-v1_.CEL.gz
+GSM1940602,GSE75010,GSM1940602,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940602_PE-PreT-AGA__rep12_GSM1940602_7387_HuGene-1_0-st-v1_.CEL.gz
+GSM1940603,GSE75010,GSM1940603,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940603_PE-Term-SGA__rep11_GSM1940603_7513_HuGene-1_0-st-v1_.CEL.gz
+GSM1940604,GSE75010,GSM1940604,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940604_PE-PreT-SGA__rep15_GSM1940604_7543_HuGene-1_0-st-v1_.CEL.gz
+GSM1940605,GSE75010,GSM1940605,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940605_Cont-preT-AGA__rep23_GSM1940605_7637_HuGene-1_0-st-v1_.CEL.gz
+GSM1940606,GSE75010,GSM1940606,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940606_PE-Term-CH__rep4_GSM1940606_7646_HuGene-1_0-st-v1_.CEL.gz
+GSM1940607,GSE75010,GSM1940607,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940607_Cont-preT-AGA__rep24_GSM1940607_7668_HuGene-1_0-st-v1_.CEL.gz
+GSM1940608,GSE75010,GSM1940608,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940608_Cont-Ter-AGA__rep11_GSM1940608_7788_HuGene-1_0-st-v1_.CEL.gz
+GSM1940609,GSE75010,GSM1940609,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940609_Cont-preT-AGA__rep25_GSM1940609_7799_HuGene-1_0-st-v1_.CEL.gz
+GSM1940610,GSE75010,GSM1940610,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940610_PE-Term-SGA__rep12_GSM1940610_7855_HuGene-1_0-st-v1_.CEL.gz
+GSM1940611,GSE75010,GSM1940611,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940611_PE-PreT-AGA__rep13_GSM1940611_7934_HuGene-1_0-st-v1_.CEL.gz
+GSM1940612,GSE75010,GSM1940612,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940612_PE-PreT-AGA__rep14_GSM1940612_7949_HuGene-1_0-st-v1_.CEL.gz
+GSM1940613,GSE75010,GSM1940613,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940613_Cont-Ter-AGA__rep12_GSM1940613_7962_HuGene-1_0-st-v1_.CEL.gz
+GSM1940614,GSE75010,GSM1940614,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940614_PE-Term-CH__rep5_GSM1940614_7971_HuGene-1_0-st-v1_.CEL.gz
+GSM1940615,GSE75010,GSM1940615,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940615_Cont-Ter-AGA__rep13_GSM1940615_7994_HuGene-1_0-st-v1_.CEL.gz
+GSM1940616,GSE75010,GSM1940616,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940616_PE-PreT-SGA__rep16_GSM1940616_8008_HuGene-1_0-st-v1_.CEL.gz
+GSM1940617,GSE75010,GSM1940617,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940617_PE-PreT-AGA__rep15_GSM1940617_8022_HuGene-1_0-st-v1_.CEL.gz
+GSM1940618,GSE75010,GSM1940618,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940618_Cont-Ter-AGA__rep14_GSM1940618_8083_HuGene-1_0-st-v1_.CEL.gz
+GSM1940619,GSE75010,GSM1940619,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940619_PE-Term-AGA__rep11_GSM1940619_8095_HuGene-1_0-st-v1_.CEL.gz
+GSM1940620,GSE75010,GSM1940620,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940620_PE-PreT-AGA__rep16_GSM1940620_8158_HuGene-1_0-st-v1_.CEL.gz
+GSM1940621,GSE75010,GSM1940621,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940621_Cont-Ter-AGA__rep15_GSM1940621_8172_HuGene-1_0-st-v1_.CEL.gz
+GSM1940622,GSE75010,GSM1940622,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940622_Cont-Ter-AGA__rep16_GSM1940622_8207_HuGene-1_0-st-v1_.CEL.gz
+GSM1940623,GSE75010,GSM1940623,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940623_Cont-Ter-AGA__rep17_GSM1940623_8218_HuGene-1_0-st-v1_.CEL.gz
+GSM1940624,GSE75010,GSM1940624,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940624_Cont-PreT-CH__rep8_GSM1940624_8230_HuGene-1_0-st-v1_.CEL.gz
+GSM1940625,GSE75010,GSM1940625,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940625_PE-PreT-SGA__rep17_GSM1940625_8282_HuGene-1_0-st-v1_.CEL.gz
+GSM1940626,GSE75010,GSM1940626,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940626_PE-PreT-CH__rep11_GSM1940626_8319_HuGene-1_0-st-v1_.CEL.gz
+GSM1940627,GSE75010,GSM1940627,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940627_Cont-Ter-AGA__rep18_GSM1940627_8344_HuGene-1_0-st-v1_.CEL.gz
+GSM1940628,GSE75010,GSM1940628,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940628_Cont-Term-CH__rep14_GSM1940628_8563_HuGene-1_0-st-v1_.CEL.gz
+GSM1940629,GSE75010,GSM1940629,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940629_Cont-Ter-AGA__rep19_GSM1940629_8580_HuGene-1_0-st-v1_.CEL.gz
+GSM1940630,GSE75010,GSM1940630,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940630_Cont-PreT-CH__rep9_GSM1940630_8730_HuGene-1_0-st-v1_.CEL.gz
+GSM1940631,GSE75010,GSM1940631,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940631_PE-Term-AGA__rep12_GSM1940631_8790_HuGene-1_0-st-v1_.CEL.gz
+GSM1940632,GSE75010,GSM1940632,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940632_PE-PreT-AGA__rep17_GSM1940632_8802_HuGene-1_0-st-v1_.CEL.gz
+GSM1940633,GSE75010,GSM1940633,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940633_PE-PreT-CH__rep12_GSM1940633_8971_HuGene-1_0-st-v1_.CEL.gz
+GSM1940634,GSE75010,GSM1940634,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940634_Cont-Ter-AGA__rep20_GSM1940634_8997_HuGene-1_0-st-v1_.CEL.gz
+GSM1940635,GSE75010,GSM1940635,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940635_PE-PreT-SGA__rep18_GSM1940635_9058_HuGene-1_0-st-v1_.CEL.gz
+GSM1940636,GSE75010,GSM1940636,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940636_Cont-Ter-AGA__rep21_GSM1940636_9267_HuGene-1_0-st-v1_.CEL.gz
+GSM1940637,GSE75010,GSM1940637,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940637_Cont-Ter-AGA__rep22_GSM1940637_9342_HuGene-1_0-st-v1_.CEL.gz
+GSM1940638,GSE75010,GSM1940638,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940638_Cont-Ter-AGA__rep23_GSM1940638_9365_HuGene-1_0-st-v1_.CEL.gz
+GSM1940639,GSE75010,GSM1940639,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940639_Cont-Ter-AGA__rep24_GSM1940639_9397_HuGene-1_0-st-v1_.CEL.gz
+GSM1940640,GSE75010,GSM1940640,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940640_Cont-Ter-AGA__rep25_GSM1940640_9414_HuGene-1_0-st-v1_.CEL.gz
+GSM1940641,GSE75010,GSM1940641,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940641_PE-Term-SGA__rep13_GSM1940641_9524_HuGene-1_0-st-v1_.CEL.gz
+GSM1940642,GSE75010,GSM1940642,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940642_Cont-PreT-CH__rep10_GSM1940642_9572_HuGene-1_0-st-v1_.CEL.gz
+GSM1940643,GSE75010,GSM1940643,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940643_Cont-Ter-AGA__rep26_GSM1940643_9681_HuGene-1_0-st-v1_.CEL.gz
+GSM1940644,GSE75010,GSM1940644,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940644_PE-PreT-AGA__rep18_GSM1940644_9801_HuGene-1_0-st-v1_.CEL.gz
+GSM1940645,GSE75010,GSM1940645,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940645_Cont-Ter-AGA__rep27_GSM1940645_9910_HuGene-1_0-st-v1_.CEL.gz
+GSM1940646,GSE75010,GSM1940646,non-PE,Control,Control,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940646_Cont-Ter-AGA__rep28_GSM1940646_9933_HuGene-1_0-st-v1_.CEL.gz
+GSM1940647,GSE75010,GSM1940647,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940647_PE-Term-AGA__rep13_GSM1940647_9945_HuGene-1_0-st-v1_.CEL.gz
+GSM1940648,GSE75010,GSM1940648,PE,PE_General,Case,mixed,Placenta,,microarray,microarray_norm,data/raw_counts/Supp_GSM1940648_PE-PreT-AGA__rep19_GSM1940648_9981_HuGene-1_0-st-v1_.CEL.gz

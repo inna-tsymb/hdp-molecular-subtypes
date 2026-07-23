@@ -1,0 +1,128 @@
+sample,condition,cohort,timepoint,patient
+549101_1,control,Discovery,≤12 weeks gestation,549101
+706816_1,control,Discovery,≤12 weeks gestation,706816
+662256_1,PE,Discovery,≤12 weeks gestation,662256
+931746_1,control,Discovery,≤12 weeks gestation,931746
+605858_1,control,Discovery,≤12 weeks gestation,605858
+678649_1,control,Discovery,≤12 weeks gestation,678649
+692077_1,control,Discovery,≤12 weeks gestation,692077
+946772_1,control,Discovery,≤12 weeks gestation,946772
+698019_1,control,Discovery,≤12 weeks gestation,698019
+906787_1,control,Discovery,≤12 weeks gestation,906787
+773477_1,control,Discovery,≤12 weeks gestation,773477
+783078_1,control,Discovery,≤12 weeks gestation,783078
+965096_1,control,Discovery,≤12 weeks gestation,965096
+534069_1,control,Discovery,≤12 weeks gestation,534069
+972839_1,control,Discovery,≤12 weeks gestation,972839
+636361_1,control,Discovery,≤12 weeks gestation,636361
+988719_1,control,Discovery,≤12 weeks gestation,988719
+792176_1,control,Discovery,≤12 weeks gestation,792176
+579493_1,control,Discovery,≤12 weeks gestation,579493
+872878_1,control,Discovery,≤12 weeks gestation,872878
+505372_1,control,Discovery,≤12 weeks gestation,505372
+625950_1,PE,Discovery,≤12 weeks gestation,625950
+663288_1,control,Discovery,≤12 weeks gestation,663288
+977018_1,PE,Discovery,≤12 weeks gestation,977018
+896869_1,control,Discovery,≤12 weeks gestation,896869
+928186_1,control,Discovery,≤12 weeks gestation,928186
+668974_1,control,Discovery,≤12 weeks gestation,668974
+786768_1,control,Discovery,≤12 weeks gestation,786768
+943952_1,PE,Discovery,≤12 weeks gestation,943952
+737046_1,PE,Discovery,≤12 weeks gestation,737046
+594098_1,control,Discovery,≤12 weeks gestation,594098
+615064_1,control,Discovery,≤12 weeks gestation,615064
+743122_1,control,Discovery,≤12 weeks gestation,743122
+826701_1,control,Discovery,≤12 weeks gestation,826701
+777827_1,PE,Discovery,≤12 weeks gestation,777827
+523257_1,PE,Discovery,≤12 weeks gestation,523257
+947956_1,control,Discovery,≤12 weeks gestation,947956
+862314_1,control,Discovery,≤12 weeks gestation,862314
+809660_1,PE,Discovery,≤12 weeks gestation,809660
+783236_1,PE,Discovery,≤12 weeks gestation,783236
+944838_1,control,Discovery,≤12 weeks gestation,944838
+858366_1,control,Discovery,≤12 weeks gestation,858366
+825158_1,control,Discovery,≤12 weeks gestation,825158
+890932_1,control,Discovery,≤12 weeks gestation,890932
+835749_1,PE,Discovery,≤12 weeks gestation,835749
+637580_1,PE,Discovery,≤12 weeks gestation,637580
+515494_1,PE,Discovery,≤12 weeks gestation,515494
+839621_1,PE,Discovery,≤12 weeks gestation,839621
+930841_1,control,Discovery,≤12 weeks gestation,930841
+683266_1,control,Validation 1,≤12 weeks gestation,683266
+702116_1,control,Validation 1,≤12 weeks gestation,702116
+897309_1,control,Validation 1,≤12 weeks gestation,897309
+571092_1,control,Validation 1,≤12 weeks gestation,571092
+740015_1,control,Validation 1,≤12 weeks gestation,740015
+982023_1,control,Validation 1,≤12 weeks gestation,982023
+689440_1,control,Validation 1,≤12 weeks gestation,689440
+905498_1,control,Validation 1,≤12 weeks gestation,905498
+691160_1,control,Validation 1,≤12 weeks gestation,691160
+709690_1,control,Validation 1,≤12 weeks gestation,709690
+653512_1,control,Validation 1,≤12 weeks gestation,653512
+903837_1,control,Validation 1,≤12 weeks gestation,903837
+902180_1,control,Validation 1,≤12 weeks gestation,902180
+631489_1,PE,Validation 1,≤12 weeks gestation,631489
+813805_1,PE,Validation 1,≤12 weeks gestation,813805
+512025_1,control,Validation 1,≤12 weeks gestation,512025
+765128_1,control,Validation 1,≤12 weeks gestation,765128
+674547_1,PE,Validation 1,≤12 weeks gestation,674547
+629773_1,control,Validation 1,≤12 weeks gestation,629773
+525989_1,control,Validation 1,≤12 weeks gestation,525989
+501143_1,control,Validation 1,≤12 weeks gestation,501143
+915027_1,control,Validation 1,≤12 weeks gestation,915027
+472330_1,PE,Validation 2,≤12 weeks gestation,472330
+406813_1,control,Validation 2,≤12 weeks gestation,406813
+133532_1,control,Validation 2,≤12 weeks gestation,133532
+260786_1,PE,Validation 2,≤12 weeks gestation,260786
+166490_1,PE,Validation 2,≤12 weeks gestation,166490
+361175_1,PE,Validation 2,≤12 weeks gestation,361175
+455697_1,control,Validation 2,≤12 weeks gestation,455697
+397120_1,control,Validation 2,≤12 weeks gestation,397120
+250475_1,control,Validation 2,≤12 weeks gestation,250475
+339444_1,control,Validation 2,≤12 weeks gestation,339444
+490522_1,control,Validation 2,≤12 weeks gestation,490522
+477841_1,control,Validation 2,≤12 weeks gestation,477841
+212444_1,control,Validation 2,≤12 weeks gestation,212444
+406755_1,control,Validation 2,≤12 weeks gestation,406755
+294171_1,control,Validation 2,≤12 weeks gestation,294171
+485310_1,control,Validation 2,≤12 weeks gestation,485310
+480303_1,control,Validation 2,≤12 weeks gestation,480303
+277408_1,control,Validation 2,≤12 weeks gestation,277408
+443078_1,control,Validation 2,≤12 weeks gestation,443078
+328020_1,control,Validation 2,≤12 weeks gestation,328020
+253665_1,control,Validation 2,≤12 weeks gestation,253665
+415120_1,control,Validation 2,≤12 weeks gestation,415120
+138919_1,control,Validation 2,≤12 weeks gestation,138919
+490545_1,control,Validation 2,≤12 weeks gestation,490545
+456050_1,control,Validation 2,≤12 weeks gestation,456050
+291886_1,control,Validation 2,≤12 weeks gestation,291886
+103651_1,control,Validation 2,≤12 weeks gestation,103651
+346539_1,control,Validation 2,≤12 weeks gestation,346539
+149589_1,control,Validation 2,≤12 weeks gestation,149589
+133247_1,PE,Validation 2,≤12 weeks gestation,133247
+184204_1,control,Validation 2,≤12 weeks gestation,184204
+170689_1,control,Validation 2,≤12 weeks gestation,170689
+254685_1,control,Validation 2,≤12 weeks gestation,254685
+178534_1,PE,Validation 2,≤12 weeks gestation,178534
+262245_1,PE,Validation 2,≤12 weeks gestation,262245
+410199_1,PE,Validation 2,≤12 weeks gestation,410199
+209564_1,PE,Validation 2,≤12 weeks gestation,209564
+475571_1,PE,Validation 2,≤12 weeks gestation,475571
+330152_1,PE,Validation 2,≤12 weeks gestation,330152
+141218_1,control,Validation 2,≤12 weeks gestation,141218
+295748_1,PE,Validation 2,≤12 weeks gestation,295748
+167961_1,PE,Validation 2,≤12 weeks gestation,167961
+293901_1,control,Validation 2,≤12 weeks gestation,293901
+455648_1,control,Validation 2,≤12 weeks gestation,455648
+229182_1,control,Validation 2,≤12 weeks gestation,229182
+267586_1,PE,Validation 2,≤12 weeks gestation,267586
+316949_1,control,Validation 2,≤12 weeks gestation,316949
+406636_1,control,Validation 2,≤12 weeks gestation,406636
+349246_1,PE,Validation 2,≤12 weeks gestation,349246
+161584_1,control,Validation 2,≤12 weeks gestation,161584
+195443_1,control,Validation 2,≤12 weeks gestation,195443
+301419_1,PE,Validation 2,≤12 weeks gestation,301419
+169395_1,control,Validation 2,≤12 weeks gestation,169395
+108445_1,control,Validation 2,≤12 weeks gestation,108445
+253823_1,control,Validation 2,≤12 weeks gestation,253823
+334129_1,control,Validation 2,≤12 weeks gestation,334129

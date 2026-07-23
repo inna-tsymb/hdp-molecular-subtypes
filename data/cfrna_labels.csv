@@ -1,0 +1,392 @@
+sample,disease,timepoint,cohort,patient,label,is_severe,matrix_file
+944838_2,control,13-20 weeks gestation,Discovery,944838,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+944838_1,control,≤12 weeks gestation,Discovery,944838,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+944838_4,control,Post-partum,Discovery,944838,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+931746_1,control,≤12 weeks gestation,Discovery,931746,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+826701_4,control,Post-partum,Discovery,826701,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+662256_1,pre-eclampsia,≤12 weeks gestation,Discovery,662256,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+777827_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,777827,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+777827_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,777827,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+777827_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,777827,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+777827_4,severe pre-eclampsia,Post-partum,Discovery,777827,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+944838_3,control,≥23 weeks gestation,Discovery,944838,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+773626_3,pre-eclampsia,≥23 weeks gestation,Discovery,773626,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+773626_2,pre-eclampsia,13-20 weeks gestation,Discovery,773626,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+773626_4,pre-eclampsia,Post-partum,Discovery,773626,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+523257_1,pre-eclampsia,≤12 weeks gestation,Discovery,523257,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+523257_2,pre-eclampsia,13-20 weeks gestation,Discovery,523257,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+523257_3,pre-eclampsia,≥23 weeks gestation,Discovery,523257,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+662256_2,pre-eclampsia,13-20 weeks gestation,Discovery,662256,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+947956_1,control,≤12 weeks gestation,Discovery,947956,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+947956_2,control,13-20 weeks gestation,Discovery,947956,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+947956_3,control,≥23 weeks gestation,Discovery,947956,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+947956_4,control,Post-partum,Discovery,947956,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+862314_1,control,≤12 weeks gestation,Discovery,862314,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+862314_2,control,13-20 weeks gestation,Discovery,862314,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+862314_4,control,Post-partum,Discovery,862314,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+862314_3,control,≥23 weeks gestation,Discovery,862314,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+565234_2,pre-eclampsia,13-20 weeks gestation,Discovery,565234,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+565234_4,pre-eclampsia,Post-partum,Discovery,565234,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+662256_3,pre-eclampsia,≥23 weeks gestation,Discovery,662256,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+839621_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,839621,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+839621_4,severe pre-eclampsia,Post-partum,Discovery,839621,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+839621_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,839621,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+930841_1,control,≤12 weeks gestation,Discovery,930841,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+930841_2,control,13-20 weeks gestation,Discovery,930841,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+930841_3,control,≥23 weeks gestation,Discovery,930841,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+683266_1,control,≤12 weeks gestation,Validation 1,683266,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+931746_3,control,≥23 weeks gestation,Discovery,931746,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+683266_2,control,13-20 weeks gestation,Validation 1,683266,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+683266_3,control,≥23 weeks gestation,Validation 1,683266,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+683266_4,control,Post-partum,Validation 1,683266,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+702116_1,control,≤12 weeks gestation,Validation 1,702116,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+702116_2,control,13-20 weeks gestation,Validation 1,702116,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+702116_4,control,Post-partum,Validation 1,702116,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+702116_3,control,≥23 weeks gestation,Validation 1,702116,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+897309_2,control,13-20 weeks gestation,Validation 1,897309,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+897309_1,control,≤12 weeks gestation,Validation 1,897309,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+605858_1,control,≤12 weeks gestation,Discovery,605858,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+897309_3,control,≥23 weeks gestation,Validation 1,897309,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+897309_4,control,Post-partum,Validation 1,897309,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+565782_2,control,13-20 weeks gestation,Validation 1,565782,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+565782_3,control,≥23 weeks gestation,Validation 1,565782,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+565782_4,control,Post-partum,Validation 1,565782,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+571092_1,control,≤12 weeks gestation,Validation 1,571092,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+520587_2,control,13-20 weeks gestation,Discovery,520587,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+858366_1,control,≤12 weeks gestation,Discovery,858366,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+858366_3,control,≥23 weeks gestation,Discovery,858366,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+825158_2,control,13-20 weeks gestation,Discovery,825158,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+825158_1,control,≤12 weeks gestation,Discovery,825158,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+825158_3,control,≥23 weeks gestation,Discovery,825158,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+890932_1,control,≤12 weeks gestation,Discovery,890932,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+890932_2,control,13-20 weeks gestation,Discovery,890932,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+890932_3,control,≥23 weeks gestation,Discovery,890932,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+835749_2,pre-eclampsia,13-20 weeks gestation,Discovery,835749,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+835749_1,pre-eclampsia,≤12 weeks gestation,Discovery,835749,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+835749_3,pre-eclampsia,≥23 weeks gestation,Discovery,835749,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+835749_4,pre-eclampsia,Post-partum,Discovery,835749,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+637580_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,637580,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+637580_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,637580,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+515494_1,pre-eclampsia,≤12 weeks gestation,Discovery,515494,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+997717_2,control,13-20 weeks gestation,Discovery,997717,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+637549_3,control,≥23 weeks gestation,Discovery,637549,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+931746_2,control,13-20 weeks gestation,Discovery,931746,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+997717_3,control,≥23 weeks gestation,Discovery,997717,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+997717_4,control,Post-partum,Discovery,997717,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+500915_2,control,13-20 weeks gestation,Validation 1,500915,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+500915_3,control,≥23 weeks gestation,Validation 1,500915,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+740015_1,control,≤12 weeks gestation,Validation 1,740015,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+605858_2,control,13-20 weeks gestation,Discovery,605858,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+740015_3,control,≥23 weeks gestation,Validation 1,740015,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+982023_1,control,≤12 weeks gestation,Validation 1,982023,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+982023_2,control,13-20 weeks gestation,Validation 1,982023,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+982023_3,control,≥23 weeks gestation,Validation 1,982023,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+689440_1,control,≤12 weeks gestation,Validation 1,689440,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+689440_2,control,13-20 weeks gestation,Validation 1,689440,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+689440_4,control,Post-partum,Validation 1,689440,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+689440_3,control,≥23 weeks gestation,Validation 1,689440,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+905498_1,control,≤12 weeks gestation,Validation 1,905498,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+905498_2,control,13-20 weeks gestation,Validation 1,905498,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+605858_3,control,≥23 weeks gestation,Discovery,605858,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+691160_1,control,≤12 weeks gestation,Validation 1,691160,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+691160_2,control,13-20 weeks gestation,Validation 1,691160,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+691160_3,control,≥23 weeks gestation,Validation 1,691160,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+709690_1,control,≤12 weeks gestation,Validation 1,709690,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+709690_2,control,13-20 weeks gestation,Validation 1,709690,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+709690_4,control,Post-partum,Validation 1,709690,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+709690_3,control,≥23 weeks gestation,Validation 1,709690,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+653512_1,control,≤12 weeks gestation,Validation 1,653512,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+653512_3,control,≥23 weeks gestation,Validation 1,653512,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+653512_2,control,13-20 weeks gestation,Validation 1,653512,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+605858_4,control,Post-partum,Discovery,605858,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+653512_4,control,Post-partum,Validation 1,653512,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+752820_4,control,Post-partum,Validation 1,752820,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+707861_2,control,13-20 weeks gestation,Validation 1,707861,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+971241_2,control,13-20 weeks gestation,Validation 1,971241,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+971241_3,control,≥23 weeks gestation,Validation 1,971241,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+971241_4,control,Post-partum,Validation 1,971241,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+903837_1,control,≤12 weeks gestation,Validation 1,903837,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+903837_3,control,≥23 weeks gestation,Validation 1,903837,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+888987_2,control,13-20 weeks gestation,Validation 1,888987,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+903837_2,control,13-20 weeks gestation,Validation 1,903837,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+678649_1,control,≤12 weeks gestation,Discovery,678649,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+888987_3,control,≥23 weeks gestation,Validation 1,888987,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+888987_4,control,Post-partum,Validation 1,888987,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+582739_3,control,≥23 weeks gestation,Validation 1,582739,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+582739_4,control,Post-partum,Validation 1,582739,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+961389_3,control,≥23 weeks gestation,Validation 1,961389,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+902180_1,control,≤12 weeks gestation,Validation 1,902180,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+902180_2,control,13-20 weeks gestation,Validation 1,902180,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+902180_3,control,≥23 weeks gestation,Validation 1,902180,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+546738_3,pre-eclampsia,≥23 weeks gestation,Validation 1,546738,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+902180_4,control,Post-partum,Validation 1,902180,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+546738_4,pre-eclampsia,Post-partum,Validation 1,546738,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+739041_3,severe pre-eclampsia,≥23 weeks gestation,Validation 1,739041,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+739041_4,severe pre-eclampsia,Post-partum,Validation 1,739041,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+472330_1,pre-eclampsia,≤12 weeks gestation,Validation 2,472330,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+406813_1,control,≤12 weeks gestation,Validation 2,406813,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+320238_2,control,13-20 weeks gestation,Validation 2,320238,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+133532_1,control,≤12 weeks gestation,Validation 2,133532,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+260786_1,pre-eclampsia,≤12 weeks gestation,Validation 2,260786,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+692077_1,control,≤12 weeks gestation,Discovery,692077,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+205623_2,control,13-20 weeks gestation,Validation 2,205623,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+166490_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,166490,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+194785_2,control,13-20 weeks gestation,Validation 2,194785,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+309805_2,control,13-20 weeks gestation,Validation 2,309805,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+361175_1,pre-eclampsia,≤12 weeks gestation,Validation 2,361175,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+455697_1,control,≤12 weeks gestation,Validation 2,455697,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+250475_1,control,≤12 weeks gestation,Validation 2,250475,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+397120_1,control,≤12 weeks gestation,Validation 2,397120,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+339444_1,control,≤12 weeks gestation,Validation 2,339444,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+141956_2,control,13-20 weeks gestation,Validation 2,141956,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+490522_1,control,≤12 weeks gestation,Validation 2,490522,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+477841_1,control,≤12 weeks gestation,Validation 2,477841,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+692077_2,control,13-20 weeks gestation,Discovery,692077,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+212444_1,control,≤12 weeks gestation,Validation 2,212444,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+782752_3,control,≥23 weeks gestation,Discovery,782752,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+782752_4,control,Post-partum,Discovery,782752,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+625950_3,pre-eclampsia,≥23 weeks gestation,Discovery,625950,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+703998_3,control,≥23 weeks gestation,Discovery,703998,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+663288_1,control,≤12 weeks gestation,Discovery,663288,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+663288_4,control,Post-partum,Discovery,663288,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+663288_3,control,≥23 weeks gestation,Discovery,663288,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+977018_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,977018,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+977018_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,977018,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+896869_1,control,≤12 weeks gestation,Discovery,896869,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+928186_1,control,≤12 weeks gestation,Discovery,928186,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+668974_2,control,13-20 weeks gestation,Discovery,668974,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+668974_1,control,≤12 weeks gestation,Discovery,668974,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+668974_3,control,≥23 weeks gestation,Discovery,668974,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+668974_4,control,Post-partum,Discovery,668974,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+786768_1,control,≤12 weeks gestation,Discovery,786768,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+786768_2,control,13-20 weeks gestation,Discovery,786768,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+786768_3,control,≥23 weeks gestation,Discovery,786768,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+943952_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,943952,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+783078_1,control,≤12 weeks gestation,Discovery,783078,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+783078_2,control,13-20 weeks gestation,Discovery,783078,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+783078_4,control,Post-partum,Discovery,783078,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+856650_2,control,13-20 weeks gestation,Discovery,856650,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+965096_1,control,≤12 weeks gestation,Discovery,965096,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+965096_3,control,≥23 weeks gestation,Discovery,965096,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+534069_1,control,≤12 weeks gestation,Discovery,534069,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+534069_4,control,Post-partum,Discovery,534069,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+534069_2,control,13-20 weeks gestation,Discovery,534069,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+972839_2,control,13-20 weeks gestation,Discovery,972839,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+972839_1,control,≤12 weeks gestation,Discovery,972839,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+972839_4,control,Post-partum,Discovery,972839,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+636361_1,control,≤12 weeks gestation,Discovery,636361,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+856650_3,control,≥23 weeks gestation,Discovery,856650,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+636361_3,control,≥23 weeks gestation,Discovery,636361,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+636361_4,control,Post-partum,Discovery,636361,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+695492_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,695492,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+695492_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,695492,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+695492_4,severe pre-eclampsia,Post-partum,Discovery,695492,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+664041_2,pre-eclampsia,13-20 weeks gestation,Discovery,664041,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+664041_3,pre-eclampsia,≥23 weeks gestation,Discovery,664041,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+988719_1,control,≤12 weeks gestation,Discovery,988719,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+664041_4,pre-eclampsia,Post-partum,Discovery,664041,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+988719_2,control,13-20 weeks gestation,Discovery,988719,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+988719_4,control,Post-partum,Discovery,988719,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+792176_1,control,≤12 weeks gestation,Discovery,792176,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+792176_2,control,13-20 weeks gestation,Discovery,792176,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+792176_4,control,Post-partum,Discovery,792176,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+579493_1,control,≤12 weeks gestation,Discovery,579493,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+579493_2,control,13-20 weeks gestation,Discovery,579493,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+579493_3,control,≥23 weeks gestation,Discovery,579493,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+872878_1,control,≤12 weeks gestation,Discovery,872878,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+579493_4,control,Post-partum,Discovery,579493,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+872878_3,control,≥23 weeks gestation,Discovery,872878,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+872878_2,control,13-20 weeks gestation,Discovery,872878,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+872878_4,control,Post-partum,Discovery,872878,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+703998_2,control,13-20 weeks gestation,Discovery,703998,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+740596_2,control,13-20 weeks gestation,Discovery,740596,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+740596_3,control,≥23 weeks gestation,Discovery,740596,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+505372_1,control,≤12 weeks gestation,Discovery,505372,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+505372_2,control,13-20 weeks gestation,Discovery,505372,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+852717_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,852717,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+505372_3,control,≥23 weeks gestation,Discovery,505372,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+852717_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,852717,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+852717_4,severe pre-eclampsia,Post-partum,Discovery,852717,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+625950_1,pre-eclampsia,≤12 weeks gestation,Discovery,625950,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+690247_2,control,13-20 weeks gestation,Validation 1,690247,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+678649_2,control,13-20 weeks gestation,Discovery,678649,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+814701_2,control,13-20 weeks gestation,Validation 1,814701,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+690247_4,control,Post-partum,Validation 1,690247,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+508691_3,control,≥23 weeks gestation,Validation 1,508691,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+631489_1,pre-eclampsia,≤12 weeks gestation,Validation 1,631489,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+631489_2,pre-eclampsia,13-20 weeks gestation,Validation 1,631489,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+631489_3,pre-eclampsia,≥23 weeks gestation,Validation 1,631489,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+813805_1,pre-eclampsia,≤12 weeks gestation,Validation 1,813805,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+631489_4,pre-eclampsia,Post-partum,Validation 1,631489,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+813805_2,pre-eclampsia,13-20 weeks gestation,Validation 1,813805,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+678649_3,control,≥23 weeks gestation,Discovery,678649,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+813805_3,pre-eclampsia,≥23 weeks gestation,Validation 1,813805,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+813805_4,pre-eclampsia,Post-partum,Validation 1,813805,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+597312_2,severe pre-eclampsia,13-20 weeks gestation,Validation 1,597312,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+597312_4,severe pre-eclampsia,Post-partum,Validation 1,597312,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+597312_3,severe pre-eclampsia,≥23 weeks gestation,Validation 1,597312,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+512025_1,control,≤12 weeks gestation,Validation 1,512025,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+512025_2,control,13-20 weeks gestation,Validation 1,512025,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+512025_4,control,Post-partum,Validation 1,512025,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+765128_1,control,≤12 weeks gestation,Validation 1,765128,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+765128_2,control,13-20 weeks gestation,Validation 1,765128,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+520109_2,control,13-20 weeks gestation,Discovery,520109,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+557409_4,control,Post-partum,Validation 1,557409,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+884755_2,control,13-20 weeks gestation,Validation 1,884755,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+674547_1,pre-eclampsia,≤12 weeks gestation,Validation 1,674547,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+765128_4,control,Post-partum,Validation 1,765128,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+674547_3,pre-eclampsia,≥23 weeks gestation,Validation 1,674547,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+674547_2,pre-eclampsia,13-20 weeks gestation,Validation 1,674547,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+629773_1,control,≤12 weeks gestation,Validation 1,629773,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+629773_2,control,13-20 weeks gestation,Validation 1,629773,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+569467_2,severe pre-eclampsia,13-20 weeks gestation,Validation 1,569467,PE,True,GSE192902_counts_Validation1_postQC.csv.gz
+520109_3,control,≥23 weeks gestation,Discovery,520109,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+637549_4,control,Post-partum,Discovery,637549,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+525989_1,control,≤12 weeks gestation,Validation 1,525989,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+525989_2,control,13-20 weeks gestation,Validation 1,525989,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+525989_4,control,Post-partum,Validation 1,525989,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+501143_1,control,≤12 weeks gestation,Validation 1,501143,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+501143_2,control,13-20 weeks gestation,Validation 1,501143,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+915027_1,control,≤12 weeks gestation,Validation 1,915027,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+501143_4,control,Post-partum,Validation 1,501143,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+915027_2,control,13-20 weeks gestation,Validation 1,915027,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+915027_3,control,≥23 weeks gestation,Validation 1,915027,control,False,GSE192902_counts_Validation1_postQC.csv.gz
+546738_2,pre-eclampsia,13-20 weeks gestation,Validation 1,546738,PE,False,GSE192902_counts_Validation1_postQC.csv.gz
+520109_4,control,Post-partum,Discovery,520109,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+294171_1,control,≤12 weeks gestation,Validation 2,294171,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+406755_1,control,≤12 weeks gestation,Validation 2,406755,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+277408_1,control,≤12 weeks gestation,Validation 2,277408,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+480303_1,control,≤12 weeks gestation,Validation 2,480303,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+485310_1,control,≤12 weeks gestation,Validation 2,485310,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+255058_2,control,13-20 weeks gestation,Validation 2,255058,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+443078_1,control,≤12 weeks gestation,Validation 2,443078,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+692077_3,control,≥23 weeks gestation,Discovery,692077,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+328020_1,control,≤12 weeks gestation,Validation 2,328020,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+197072_2,control,13-20 weeks gestation,Validation 2,197072,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+253665_1,control,≤12 weeks gestation,Validation 2,253665,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+313204_2,control,13-20 weeks gestation,Validation 2,313204,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+415120_1,control,≤12 weeks gestation,Validation 2,415120,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+138919_1,control,≤12 weeks gestation,Validation 2,138919,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+490545_1,control,≤12 weeks gestation,Validation 2,490545,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+122540_2,control,13-20 weeks gestation,Validation 2,122540,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+456050_1,control,≤12 weeks gestation,Validation 2,456050,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+692077_4,control,Post-partum,Discovery,692077,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+265479_2,pre-eclampsia,13-20 weeks gestation,Validation 2,265479,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+291886_1,control,≤12 weeks gestation,Validation 2,291886,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+103651_1,control,≤12 weeks gestation,Validation 2,103651,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+319860_2,control,13-20 weeks gestation,Validation 2,319860,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+346539_1,control,≤12 weeks gestation,Validation 2,346539,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+149589_1,control,≤12 weeks gestation,Validation 2,149589,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+121329_2,control,13-20 weeks gestation,Validation 2,121329,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+133247_1,pre-eclampsia,≤12 weeks gestation,Validation 2,133247,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+184204_1,control,≤12 weeks gestation,Validation 2,184204,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+230843_2,control,13-20 weeks gestation,Validation 2,230843,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+170689_1,control,≤12 weeks gestation,Validation 2,170689,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+946772_1,control,≤12 weeks gestation,Discovery,946772,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+254685_1,control,≤12 weeks gestation,Validation 2,254685,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+178534_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,178534,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+262245_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,262245,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+410199_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,410199,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+209564_1,pre-eclampsia,≤12 weeks gestation,Validation 2,209564,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+475571_1,pre-eclampsia,≤12 weeks gestation,Validation 2,475571,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+469006_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,469006,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+330152_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,330152,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+141218_1,control,≤12 weeks gestation,Validation 2,141218,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+393370_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,393370,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+946772_2,control,13-20 weeks gestation,Discovery,946772,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+295748_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,295748,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+167961_1,severe pre-eclampsia,≤12 weeks gestation,Validation 2,167961,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+293901_1,control,≤12 weeks gestation,Validation 2,293901,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+455648_1,control,≤12 weeks gestation,Validation 2,455648,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+405912_2,control,13-20 weeks gestation,Validation 2,405912,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+229182_1,control,≤12 weeks gestation,Validation 2,229182,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+943952_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,943952,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+267586_2,pre-eclampsia,13-20 weeks gestation,Validation 2,267586,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+943952_4,severe pre-eclampsia,Post-partum,Discovery,943952,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+706816_1,control,≤12 weeks gestation,Discovery,706816,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+943952_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,943952,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+737046_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,737046,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+737046_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,737046,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+737046_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,737046,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+737046_4,severe pre-eclampsia,Post-partum,Discovery,737046,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+594098_2,control,13-20 weeks gestation,Discovery,594098,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+594098_1,control,≤12 weeks gestation,Discovery,594098,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+594098_4,control,Post-partum,Discovery,594098,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+615064_1,control,≤12 weeks gestation,Discovery,615064,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+615064_2,control,13-20 weeks gestation,Discovery,615064,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+615064_4,control,Post-partum,Discovery,615064,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+615064_3,control,≥23 weeks gestation,Discovery,615064,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+706816_3,control,≥23 weeks gestation,Discovery,706816,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+939512_2,control,13-20 weeks gestation,Discovery,939512,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+743122_3,control,≥23 weeks gestation,Discovery,743122,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+743122_1,control,≤12 weeks gestation,Discovery,743122,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+939512_3,control,≥23 weeks gestation,Discovery,939512,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+743122_4,control,Post-partum,Discovery,743122,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+826701_1,control,≤12 weeks gestation,Discovery,826701,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+826701_3,control,≥23 weeks gestation,Discovery,826701,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+267586_1,pre-eclampsia,≤12 weeks gestation,Validation 2,267586,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+418624_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,418624,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+331344_2,pre-eclampsia,13-20 weeks gestation,Validation 2,331344,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+946772_3,control,≥23 weeks gestation,Discovery,946772,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+147354_2,pre-eclampsia,13-20 weeks gestation,Validation 2,147354,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+316949_1,control,≤12 weeks gestation,Validation 2,316949,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+450582_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,450582,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+406636_1,control,≤12 weeks gestation,Validation 2,406636,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+454195_2,control,13-20 weeks gestation,Validation 2,454195,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+349246_2,pre-eclampsia,13-20 weeks gestation,Validation 2,349246,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+464537_2,control,13-20 weeks gestation,Validation 2,464537,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+457230_2,control,13-20 weeks gestation,Validation 2,457230,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+349246_1,pre-eclampsia,≤12 weeks gestation,Validation 2,349246,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+946772_4,control,Post-partum,Discovery,946772,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+384886_2,control,13-20 weeks gestation,Validation 2,384886,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+161584_1,control,≤12 weeks gestation,Validation 2,161584,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+195443_1,control,≤12 weeks gestation,Validation 2,195443,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+412304_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,412304,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+301419_1,pre-eclampsia,≤12 weeks gestation,Validation 2,301419,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+401187_2,control,13-20 weeks gestation,Validation 2,401187,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+339832_2,control,13-20 weeks gestation,Validation 2,339832,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+434662_2,control,13-20 weeks gestation,Validation 2,434662,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+169395_1,control,≤12 weeks gestation,Validation 2,169395,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+235246_2,control,13-20 weeks gestation,Validation 2,235246,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+108445_1,control,≤12 weeks gestation,Validation 2,108445,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+827529_2,pre-eclampsia,13-20 weeks gestation,Discovery,827529,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+549101_1,control,≤12 weeks gestation,Discovery,549101,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+253823_1,control,≤12 weeks gestation,Validation 2,253823,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+159918_2,severe pre-eclampsia,13-20 weeks gestation,Validation 2,159918,PE,True,GSE192902_counts_Validation2_postQC.csv.gz
+334129_1,control,≤12 weeks gestation,Validation 2,334129,control,False,GSE192902_counts_Validation2_postQC.csv.gz
+261268_2,pre-eclampsia,13-20 weeks gestation,Validation 2,261268,PE,False,GSE192902_counts_Validation2_postQC.csv.gz
+827529_3,pre-eclampsia,≥23 weeks gestation,Discovery,827529,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+827529_4,pre-eclampsia,Post-partum,Discovery,827529,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+698019_1,control,≤12 weeks gestation,Discovery,698019,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+788006_2,pre-eclampsia,13-20 weeks gestation,Discovery,788006,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+698019_4,control,Post-partum,Discovery,698019,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+788006_3,pre-eclampsia,≥23 weeks gestation,Discovery,788006,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+788006_4,pre-eclampsia,Post-partum,Discovery,788006,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+906787_1,control,≤12 weeks gestation,Discovery,906787,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+906787_3,control,≥23 weeks gestation,Discovery,906787,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+586898_2,control,13-20 weeks gestation,Discovery,586898,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+906787_4,control,Post-partum,Discovery,906787,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+549101_3,control,≥23 weeks gestation,Discovery,549101,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+586898_4,control,Post-partum,Discovery,586898,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+773477_1,control,≤12 weeks gestation,Discovery,773477,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+773477_2,control,13-20 weeks gestation,Discovery,773477,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+773477_3,control,≥23 weeks gestation,Discovery,773477,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+773477_4,control,Post-partum,Discovery,773477,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+723691_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,723691,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+723691_4,severe pre-eclampsia,Post-partum,Discovery,723691,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+723691_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,723691,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+787693_2,control,13-20 weeks gestation,Discovery,787693,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+787693_3,control,≥23 weeks gestation,Discovery,787693,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+680949_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,680949,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+680949_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,680949,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+809660_1,severe pre-eclampsia,≤12 weeks gestation,Discovery,809660,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+737184_2,severe pre-eclampsia,13-20 weeks gestation,Discovery,737184,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+809660_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,809660,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+662256_4,pre-eclampsia,Post-partum,Discovery,662256,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+737184_4,severe pre-eclampsia,Post-partum,Discovery,737184,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+783236_1,pre-eclampsia,≤12 weeks gestation,Discovery,783236,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+960203_4,control,Post-partum,Discovery,960203,control,False,GSE192902_counts_Discovery_postQC.csv.gz
+550205_3,severe pre-eclampsia,≥23 weeks gestation,Discovery,550205,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+783236_4,pre-eclampsia,Post-partum,Discovery,783236,PE,False,GSE192902_counts_Discovery_postQC.csv.gz
+550205_4,severe pre-eclampsia,Post-partum,Discovery,550205,PE,True,GSE192902_counts_Discovery_postQC.csv.gz
+888980_3,control,≥23 weeks gestation,Discovery,888980,control,False,GSE192902_counts_Discovery_postQC.csv.gz

@@ -1,0 +1,114 @@
+sample,condition,cohort,timepoint,patient
+856650_2,control,Discovery,13-20 weeks gestation,856650
+703998_2,control,Discovery,13-20 weeks gestation,703998
+662256_2,PE,Discovery,13-20 weeks gestation,662256
+931746_2,control,Discovery,13-20 weeks gestation,931746
+605858_2,control,Discovery,13-20 weeks gestation,605858
+678649_2,control,Discovery,13-20 weeks gestation,678649
+520109_2,control,Discovery,13-20 weeks gestation,520109
+692077_2,control,Discovery,13-20 weeks gestation,692077
+946772_2,control,Discovery,13-20 weeks gestation,946772
+827529_2,PE,Discovery,13-20 weeks gestation,827529
+788006_2,PE,Discovery,13-20 weeks gestation,788006
+586898_2,control,Discovery,13-20 weeks gestation,586898
+773477_2,control,Discovery,13-20 weeks gestation,773477
+783078_2,control,Discovery,13-20 weeks gestation,783078
+534069_2,control,Discovery,13-20 weeks gestation,534069
+972839_2,control,Discovery,13-20 weeks gestation,972839
+695492_2,PE,Discovery,13-20 weeks gestation,695492
+664041_2,PE,Discovery,13-20 weeks gestation,664041
+988719_2,control,Discovery,13-20 weeks gestation,988719
+792176_2,control,Discovery,13-20 weeks gestation,792176
+579493_2,control,Discovery,13-20 weeks gestation,579493
+872878_2,control,Discovery,13-20 weeks gestation,872878
+740596_2,control,Discovery,13-20 weeks gestation,740596
+505372_2,control,Discovery,13-20 weeks gestation,505372
+852717_2,PE,Discovery,13-20 weeks gestation,852717
+668974_2,control,Discovery,13-20 weeks gestation,668974
+786768_2,control,Discovery,13-20 weeks gestation,786768
+943952_2,PE,Discovery,13-20 weeks gestation,943952
+737046_2,PE,Discovery,13-20 weeks gestation,737046
+594098_2,control,Discovery,13-20 weeks gestation,594098
+615064_2,control,Discovery,13-20 weeks gestation,615064
+939512_2,control,Discovery,13-20 weeks gestation,939512
+777827_2,PE,Discovery,13-20 weeks gestation,777827
+773626_2,PE,Discovery,13-20 weeks gestation,773626
+523257_2,PE,Discovery,13-20 weeks gestation,523257
+947956_2,control,Discovery,13-20 weeks gestation,947956
+862314_2,control,Discovery,13-20 weeks gestation,862314
+565234_2,PE,Discovery,13-20 weeks gestation,565234
+723691_2,PE,Discovery,13-20 weeks gestation,723691
+787693_2,control,Discovery,13-20 weeks gestation,787693
+680949_2,PE,Discovery,13-20 weeks gestation,680949
+737184_2,PE,Discovery,13-20 weeks gestation,737184
+944838_2,control,Discovery,13-20 weeks gestation,944838
+520587_2,control,Discovery,13-20 weeks gestation,520587
+825158_2,control,Discovery,13-20 weeks gestation,825158
+890932_2,control,Discovery,13-20 weeks gestation,890932
+835749_2,PE,Discovery,13-20 weeks gestation,835749
+997717_2,control,Discovery,13-20 weeks gestation,997717
+930841_2,control,Discovery,13-20 weeks gestation,930841
+683266_2,control,Validation 1,13-20 weeks gestation,683266
+702116_2,control,Validation 1,13-20 weeks gestation,702116
+897309_2,control,Validation 1,13-20 weeks gestation,897309
+565782_2,control,Validation 1,13-20 weeks gestation,565782
+500915_2,control,Validation 1,13-20 weeks gestation,500915
+982023_2,control,Validation 1,13-20 weeks gestation,982023
+689440_2,control,Validation 1,13-20 weeks gestation,689440
+905498_2,control,Validation 1,13-20 weeks gestation,905498
+691160_2,control,Validation 1,13-20 weeks gestation,691160
+709690_2,control,Validation 1,13-20 weeks gestation,709690
+653512_2,control,Validation 1,13-20 weeks gestation,653512
+707861_2,control,Validation 1,13-20 weeks gestation,707861
+971241_2,control,Validation 1,13-20 weeks gestation,971241
+903837_2,control,Validation 1,13-20 weeks gestation,903837
+888987_2,control,Validation 1,13-20 weeks gestation,888987
+902180_2,control,Validation 1,13-20 weeks gestation,902180
+690247_2,control,Validation 1,13-20 weeks gestation,690247
+814701_2,control,Validation 1,13-20 weeks gestation,814701
+631489_2,PE,Validation 1,13-20 weeks gestation,631489
+813805_2,PE,Validation 1,13-20 weeks gestation,813805
+597312_2,PE,Validation 1,13-20 weeks gestation,597312
+512025_2,control,Validation 1,13-20 weeks gestation,512025
+765128_2,control,Validation 1,13-20 weeks gestation,765128
+884755_2,control,Validation 1,13-20 weeks gestation,884755
+674547_2,PE,Validation 1,13-20 weeks gestation,674547
+629773_2,control,Validation 1,13-20 weeks gestation,629773
+569467_2,PE,Validation 1,13-20 weeks gestation,569467
+525989_2,control,Validation 1,13-20 weeks gestation,525989
+501143_2,control,Validation 1,13-20 weeks gestation,501143
+915027_2,control,Validation 1,13-20 weeks gestation,915027
+546738_2,PE,Validation 1,13-20 weeks gestation,546738
+320238_2,control,Validation 2,13-20 weeks gestation,320238
+205623_2,control,Validation 2,13-20 weeks gestation,205623
+194785_2,control,Validation 2,13-20 weeks gestation,194785
+309805_2,control,Validation 2,13-20 weeks gestation,309805
+141956_2,control,Validation 2,13-20 weeks gestation,141956
+255058_2,control,Validation 2,13-20 weeks gestation,255058
+197072_2,control,Validation 2,13-20 weeks gestation,197072
+313204_2,control,Validation 2,13-20 weeks gestation,313204
+122540_2,control,Validation 2,13-20 weeks gestation,122540
+265479_2,PE,Validation 2,13-20 weeks gestation,265479
+319860_2,control,Validation 2,13-20 weeks gestation,319860
+121329_2,control,Validation 2,13-20 weeks gestation,121329
+230843_2,control,Validation 2,13-20 weeks gestation,230843
+469006_2,PE,Validation 2,13-20 weeks gestation,469006
+393370_2,PE,Validation 2,13-20 weeks gestation,393370
+405912_2,control,Validation 2,13-20 weeks gestation,405912
+267586_2,PE,Validation 2,13-20 weeks gestation,267586
+331344_2,PE,Validation 2,13-20 weeks gestation,331344
+418624_2,PE,Validation 2,13-20 weeks gestation,418624
+450582_2,PE,Validation 2,13-20 weeks gestation,450582
+147354_2,PE,Validation 2,13-20 weeks gestation,147354
+454195_2,control,Validation 2,13-20 weeks gestation,454195
+349246_2,PE,Validation 2,13-20 weeks gestation,349246
+464537_2,control,Validation 2,13-20 weeks gestation,464537
+457230_2,control,Validation 2,13-20 weeks gestation,457230
+384886_2,control,Validation 2,13-20 weeks gestation,384886
+412304_2,PE,Validation 2,13-20 weeks gestation,412304
+401187_2,control,Validation 2,13-20 weeks gestation,401187
+434662_2,control,Validation 2,13-20 weeks gestation,434662
+339832_2,control,Validation 2,13-20 weeks gestation,339832
+235246_2,control,Validation 2,13-20 weeks gestation,235246
+159918_2,PE,Validation 2,13-20 weeks gestation,159918
+261268_2,PE,Validation 2,13-20 weeks gestation,261268

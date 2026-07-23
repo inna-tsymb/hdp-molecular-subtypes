@@ -1,0 +1,83 @@
+sample,condition,cohort,timepoint,patient
+782752_3,control,Discovery,≥23 weeks gestation,782752
+637549_3,control,Discovery,≥23 weeks gestation,637549
+549101_3,control,Discovery,≥23 weeks gestation,549101
+856650_3,control,Discovery,≥23 weeks gestation,856650
+703998_3,control,Discovery,≥23 weeks gestation,703998
+706816_3,control,Discovery,≥23 weeks gestation,706816
+662256_3,PE,Discovery,≥23 weeks gestation,662256
+931746_3,control,Discovery,≥23 weeks gestation,931746
+605858_3,control,Discovery,≥23 weeks gestation,605858
+678649_3,control,Discovery,≥23 weeks gestation,678649
+520109_3,control,Discovery,≥23 weeks gestation,520109
+692077_3,control,Discovery,≥23 weeks gestation,692077
+946772_3,control,Discovery,≥23 weeks gestation,946772
+827529_3,PE,Discovery,≥23 weeks gestation,827529
+788006_3,PE,Discovery,≥23 weeks gestation,788006
+906787_3,control,Discovery,≥23 weeks gestation,906787
+773477_3,control,Discovery,≥23 weeks gestation,773477
+965096_3,control,Discovery,≥23 weeks gestation,965096
+636361_3,control,Discovery,≥23 weeks gestation,636361
+695492_3,PE,Discovery,≥23 weeks gestation,695492
+664041_3,PE,Discovery,≥23 weeks gestation,664041
+579493_3,control,Discovery,≥23 weeks gestation,579493
+872878_3,control,Discovery,≥23 weeks gestation,872878
+740596_3,control,Discovery,≥23 weeks gestation,740596
+505372_3,control,Discovery,≥23 weeks gestation,505372
+852717_3,PE,Discovery,≥23 weeks gestation,852717
+625950_3,PE,Discovery,≥23 weeks gestation,625950
+663288_3,control,Discovery,≥23 weeks gestation,663288
+977018_3,PE,Discovery,≥23 weeks gestation,977018
+668974_3,control,Discovery,≥23 weeks gestation,668974
+786768_3,control,Discovery,≥23 weeks gestation,786768
+943952_3,PE,Discovery,≥23 weeks gestation,943952
+737046_3,PE,Discovery,≥23 weeks gestation,737046
+615064_3,control,Discovery,≥23 weeks gestation,615064
+939512_3,control,Discovery,≥23 weeks gestation,939512
+743122_3,control,Discovery,≥23 weeks gestation,743122
+826701_3,control,Discovery,≥23 weeks gestation,826701
+777827_3,PE,Discovery,≥23 weeks gestation,777827
+773626_3,PE,Discovery,≥23 weeks gestation,773626
+523257_3,PE,Discovery,≥23 weeks gestation,523257
+947956_3,control,Discovery,≥23 weeks gestation,947956
+862314_3,control,Discovery,≥23 weeks gestation,862314
+723691_3,PE,Discovery,≥23 weeks gestation,723691
+787693_3,control,Discovery,≥23 weeks gestation,787693
+680949_3,PE,Discovery,≥23 weeks gestation,680949
+809660_3,PE,Discovery,≥23 weeks gestation,809660
+550205_3,PE,Discovery,≥23 weeks gestation,550205
+888980_3,control,Discovery,≥23 weeks gestation,888980
+944838_3,control,Discovery,≥23 weeks gestation,944838
+858366_3,control,Discovery,≥23 weeks gestation,858366
+825158_3,control,Discovery,≥23 weeks gestation,825158
+890932_3,control,Discovery,≥23 weeks gestation,890932
+835749_3,PE,Discovery,≥23 weeks gestation,835749
+637580_3,PE,Discovery,≥23 weeks gestation,637580
+997717_3,control,Discovery,≥23 weeks gestation,997717
+839621_3,PE,Discovery,≥23 weeks gestation,839621
+930841_3,control,Discovery,≥23 weeks gestation,930841
+683266_3,control,Validation 1,≥23 weeks gestation,683266
+702116_3,control,Validation 1,≥23 weeks gestation,702116
+897309_3,control,Validation 1,≥23 weeks gestation,897309
+565782_3,control,Validation 1,≥23 weeks gestation,565782
+500915_3,control,Validation 1,≥23 weeks gestation,500915
+740015_3,control,Validation 1,≥23 weeks gestation,740015
+982023_3,control,Validation 1,≥23 weeks gestation,982023
+689440_3,control,Validation 1,≥23 weeks gestation,689440
+691160_3,control,Validation 1,≥23 weeks gestation,691160
+709690_3,control,Validation 1,≥23 weeks gestation,709690
+653512_3,control,Validation 1,≥23 weeks gestation,653512
+971241_3,control,Validation 1,≥23 weeks gestation,971241
+903837_3,control,Validation 1,≥23 weeks gestation,903837
+888987_3,control,Validation 1,≥23 weeks gestation,888987
+582739_3,control,Validation 1,≥23 weeks gestation,582739
+961389_3,control,Validation 1,≥23 weeks gestation,961389
+902180_3,control,Validation 1,≥23 weeks gestation,902180
+508691_3,control,Validation 1,≥23 weeks gestation,508691
+631489_3,PE,Validation 1,≥23 weeks gestation,631489
+813805_3,PE,Validation 1,≥23 weeks gestation,813805
+597312_3,PE,Validation 1,≥23 weeks gestation,597312
+674547_3,PE,Validation 1,≥23 weeks gestation,674547
+915027_3,control,Validation 1,≥23 weeks gestation,915027
+546738_3,PE,Validation 1,≥23 weeks gestation,546738
+739041_3,PE,Validation 1,≥23 weeks gestation,739041

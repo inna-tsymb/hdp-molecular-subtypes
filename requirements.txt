@@ -1,0 +1,8 @@
+# Python dependencies for the project (s1–s4 Python components)
+# Install with:  pip install -r requirements.txt
+# Freeze exact versions after installation:  pip freeze > requirements.lock.txt
+
+GEOparse>=2.0.3      # GEO SOFT download and parsing
+pandas>=2.0          # table and merge support
+mygene>=3.2.2        # Ensembl -> gene symbol (s4 merge)
+numpy>=1.24

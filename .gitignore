@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+preeclampsia/
+venv/
+ENV/
+env/
+.venv/
+
+# Raw data and downloaded attachments
+data/raw_counts/
+data/raw_files/
+
+# Reproducible results and caches
+results/
+*.log
+*.tmp
+*.bak
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor/project settings
+.vscode/
+.idea/
+
+# Misc
+Thumbs.db
