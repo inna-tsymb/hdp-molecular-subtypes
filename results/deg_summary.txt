@@ -1,0 +1,17 @@
+STRATIFIED DEA — summary (Option B)
+padj < 0.05  & |log2FC| > 1 
+
+             set   n
+1  EOPE (203507) 283
+2  LOPE (306864)  15
+3 mixed (190971) 452
+4      EOPE∩LOPE   4
+5   core (all 3)   2
+6      EOPE-only 125
+7      LOPE-only  11
+
+Interpretation:
+  core        -> shared PE signature (onset-independent)
+  EOPE-only   -> early-specific genes
+  LOPE-only   -> late-specific genes
+  EOPE∩LOPE   -> subtype overlap (check direction concordance!)

@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"Environmental Information Processing","Signal transduction","hsa04066","HIF-1 signaling pathway","11/141","105/7660",0.104761904761905,5.69132049983114,6.62808497754743,3.15976223227725e-06,0.000843656516018025,0.000818212114884424,"2321/3099/2597/3939/112399/5291/7422/5054/5214/4843/230",11

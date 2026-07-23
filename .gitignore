@@ -19,9 +19,9 @@ data/raw_files/
 data/series_counts/
 data/moufarrej/
 data/metadata/*.soft.gz
+data/cfrna_dea/
 
 # Reproducible results and caches
-results/
 !results/.gitkeep
 *.log
 *.tmp

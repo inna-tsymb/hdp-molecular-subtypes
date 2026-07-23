@@ -1,0 +1,13 @@
+EOPE signature replication on GSE148241 (EOSPE)
+=============================================
+DEG 148241: 451  | DEG EOPE(203507): 283 
+Overlap: 166  | concordant direction: 166 / 166 
+
+Hypoxia/HIF terms in 148241:
+  - response to hypoxia
+   - response to decreased oxygen levels
+   - response to oxygen levels
+   - cellular response to hypoxia
+
+Conclusion: if overlap is present with concordant direction and hypoxia terms
+replicate -> the EOPE hypoxia signature is supported independently.

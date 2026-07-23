@@ -1,0 +1,19 @@
+cfRNA-DEA — intersection with placental signatures
+================================================
+cfRNA-DEG (union of subsets): 93 
+
+  early_le12         : 0 DEG
+  mid_13_20          : 76 DEG
+  late_ge23          : 26 DEG
+  pooled_antenatal   : 4 DEG
+
+Intersections (cfRNA-union with ...):
+  placental EOPE (203507): 2 / 283 
+  placental LOPE (male)  : 3 / 117 
+  panel top25             : 0 / 25 
+  any placental DEG       : 5 / 393 
+
+Shared genes (cfRNA ∩ placenta): VCAN, EMILIN2, SULF2, SLC16A3, TREM1 
+
+Interpretation: low overlap -> placental and plasma PE transcriptomes
+do not match closely (explains weak placenta->cfRNA transfer at the gene level).

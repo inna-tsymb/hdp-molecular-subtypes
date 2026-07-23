@@ -1,0 +1,30 @@
+NATIVE cfRNA PE SIGNATURE (13-20 wk)
+=======================================
+DEG: 76  (up: 9  down: 67 )
+
+GO BP terms: 0 
+
+KEGG pathways: 0 
+
+Shared terms with placental EOPE enrichment: NONE 
+Hypoxia/HIF terms in plasma: NONE 
+
+Literature cfRNA PE markers (Del Vecchio 2020) among our DEG: none 
+
+TOP-15 DEG by padj:
+      gene log2FoldChange         padj
+1     XIST      -2.371171 4.091519e-06
+2    CCNL1      -1.660389 5.774733e-06
+3     VCAN      -2.110727 7.216433e-06
+4    ITGAX      -1.760130 3.354103e-05
+5    LRRK2      -1.277286 6.119797e-05
+6    NLRP1      -1.414116 9.459753e-05
+7    MPEG1      -1.198886 1.002305e-04
+8    PGGHG      -1.857193 1.491682e-04
+9     JAML      -1.318373 1.491682e-04
+10  DDX60L      -1.092132 1.781828e-04
+11  CD300E      -1.233615 1.991273e-04
+12     OGT      -1.210424 2.056230e-04
+13  ENTPD1      -1.403840 2.122975e-04
+14 C9orf72      -1.280861 2.122975e-04
+15  RBPMS2       1.115618 2.122975e-04

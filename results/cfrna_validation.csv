@@ -1,0 +1,9 @@
+panel,timepoint,n_patients,n_PE,AUC,CI_low,CI_high
+top25,≥23 weeks gestation,82,26,0.544,0.41,0.682
+top25,13-20 weeks gestation,113,34,0.657,0.532,0.764
+top25,≤12 weeks gestation,127,32,0.545,0.418,0.676
+top25,ALL antenatal,196,57,0.603,0.513,0.693
+stable,≥23 weeks gestation,82,26,0.532,0.4,0.662
+stable,13-20 weeks gestation,113,34,0.602,0.486,0.718
+stable,≤12 weeks gestation,127,32,0.543,0.424,0.657
+stable,ALL antenatal,196,57,0.568,0.479,0.659

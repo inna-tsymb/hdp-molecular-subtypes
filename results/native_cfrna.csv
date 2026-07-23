@@ -1,0 +1,5 @@
+space,timepoint,n_folds,n_patients,n_PE,AUC,CI_low,CI_high
+transferable,early (<=20wk),3,188,55,0.613,0.52,0.697
+transferable,co-temporal (>=23wk),2,82,26,0.648,0.524,0.768
+full,early (<=20wk),3,188,55,0.598,0.502,0.686
+full,co-temporal (>=23wk),2,82,26,0.707,0.592,0.814

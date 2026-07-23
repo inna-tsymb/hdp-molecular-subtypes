@@ -1,0 +1,6 @@
+held_out,auc,model
+GSE148241,0.609,RandomForest
+GSE186257,0.818,RandomForest
+GSE190971,0.881,RandomForest
+GSE203507,0.947,RandomForest
+GSE306864,0.675,RandomForest
