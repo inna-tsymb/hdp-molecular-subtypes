@@ -16,11 +16,9 @@ env/
 # Raw data and downloaded attachments
 data/raw_counts/
 data/raw_files/
-data/cfrna_dea/
-data/moufarrej/
-data/series_counts/
 
 # Reproducible results and caches
+results/
 *.log
 *.tmp
 *.bak
@@ -28,7 +26,6 @@ data/series_counts/
 # R artifacts
 .Rhistory
 .RData
-R_sessionInfo.txt
 .Rproj.user/
 
 # Editor/project settings
