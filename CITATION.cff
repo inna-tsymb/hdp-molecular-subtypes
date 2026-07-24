@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Molecular subtypes of hypertensive disorders of pregnancy"
+abstract: >-
+  Onset-stratified differential expression and machine learning on public
+  placental transcriptomes, showing that early- and late-onset preeclampsia
+  are molecularly distinct, and evaluating the transferability of the
+  resulting biomarker panel to plasma cell-free RNA.
+authors:
+  - family-names: Kucherova
+    given-names: Inna
+version: 1.0.0
+date-released: 2026-07-24
+license: MIT
+repository-code: "https://github.com/inna-tsymb/hdp-molecular-subtypes"
+type: software
+keywords:
+  - preeclampsia
+  - transcriptomics
+  - RNA-seq
+  - cell-free RNA
+  - machine learning
+  - bioinformatics
